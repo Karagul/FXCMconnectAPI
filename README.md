@@ -1,0 +1,2 @@
+# FXCMconnectAPI
+Getting Price History
